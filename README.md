@@ -9,11 +9,20 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theocarvalhoDEV&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theocarvalhoDEV&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github.com/theocarvalhoDEV">
+    <img height="195" src="https://github-readme-stats.vercel.app/api?username=theocarvalhoDEV&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
+  </a>
+  <a href="https://github.com/theocarvalhoDEV">
+    <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=theocarvalhoDEV&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  </a>
 </div>
+
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theocarvalhoDEV&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
+  <a href="https://github.com/theocarvalhoDEV">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theocarvalhoDEV&layout=compact&theme=tokyonight" alt="Linguagens mais usadas"/>
+  </a>
 </div>
 
 ---
@@ -36,16 +45,6 @@ Sou um Desenvolvedor apaixonado por criar interfaces cinematográficas e experi�
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</div>
-
----
-
-### 🎵 O que estou ouvindo agora
-
-<div align="left">
-  <a href="https://open.spotify.com/user/seu_usuario">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=seu_usuario&cover_image=true&theme=novathem&show_offline=false&background_color=121212&interchange=true" alt="Spotify Now Playing" />
-  </a>
 </div>
 
 ---

@@ -5,7 +5,7 @@
 </div>
 ---
 ### 🚀 Sobre Mim
-Sou um Desenvolvedor apaixonado por criar interfaces cinematográficas e experiências digitais de alta fidelidade. Atualmente focado no ecossistema **React** e em transformar ideias complexas em produtos visulamente deslumbrantes.
+Sou um Desenvolvedor apaixonado por criar interfaces cinematográficas e experiências digitais de alta fidelidade. Atualmente focado no ecossistema **React** e em transformar ideias complexas em produtos visualmente deslumbrantes.
 - 🛠️ Atualmente desenvolvendo o **[Atchê](https://github.com/TheoCarvalhoDEV/athc-)**, uma plataforma de eventos premium.
 - 🎨 Especialista em **UI/UX Cinematográfico** e Animações (**GSAP**, **Tailwind**).
 - 🎓 Estudante dedicado a engenharia de software e performance frontend.
@@ -35,5 +35,5 @@ Sou um Desenvolvedor apaixonado por criar interfaces cinematográficas e experi�
 ---
 <div align="center">
   <p><i>"Não construo apenas sites; construo a porta de entrada para experiências memoráveis."</i></p>
-  <img src="https://komarev.com/ghpvc/?username=theocavalhoDEV&color=gold&style=flat-square&label=VISITAS+AO+PERFIL" alt="Contador de visitas" />
+  <img src="https://komarev.com/ghpvc/?username=theocavalhoDEV&color=D4AF37&style=flat-square&label=VISITAS+AO+PERFIL" alt="Contador de visitas" />
 </div>

@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/theocarvalhoDEV">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Engenharia+de+Software;Especialista+em+UI%2FUX+Cinematográfico;Focado+em+React+%2B+Tailwind" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Ciência+da+Computação;Desenvolvimento+Full-Stack;Automação+e+Interfaces+de+Alta+Fidelidade" alt="Typing SVG" />
   </a>
 </div>
 
@@ -10,18 +10,7 @@
 
 <div align="center">
   <a href="https://github.com/theocarvalhoDEV">
-    <img height="195" src="https://github-readme-stats.vercel.app/api?username=theocarvalhoDEV&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
-  </a>
-  <a href="https://github.com/theocarvalhoDEV">
-    <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=theocarvalhoDEV&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/theocarvalhoDEV">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theocarvalhoDEV&layout=compact&theme=tokyonight" alt="Linguagens mais usadas"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=theocarvalhoDEV&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
   </a>
 </div>
 
@@ -29,22 +18,23 @@
 
 ### 🚀 Sobre Mim
 
-Sou um Desenvolvedor apaixonado por criar interfaces cinematográficas e experiências digitais de alta fidelidade. Atualmente focado no ecossistema **React** e em transformar ideias complexas em produtos visualmente deslumbrantes.
+Sou um Desenvolvedor focado em construir soluções digitais de ponta a ponta. Minha abordagem une a criação de interfaces de alta fidelidade com a engenharia de sistemas robustos nos bastidores. 
 
+- 🎓 Estudante de Ciência da Computação na UNEMAT, aliando forte base teórica à resolução prática de problemas.
+- ⚙️ Desenvolvo desde plataformas web modernas e sistemas de gestão até scripts complexos para automação de processos estruturados.
 - 🛠️ Atualmente desenvolvendo o **[Atchê](https://github.com/theocarvalhoDEV/athc-)**, uma plataforma de eventos premium.
-- 🎨 Especialista em **UI/UX Cinematográfico** e Animações (**GSAP**, **Tailwind**).
-- 🎓 Estudante dedicado a engenharia de software e performance frontend.
 
 ---
 
-### 💻 Tech Stack
+### 💻 Tech Stack e Ferramentas
 
 <div align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
 </div>
 
 ---
@@ -67,6 +57,6 @@ Sou um Desenvolvedor apaixonado por criar interfaces cinematográficas e experi�
 
 <div align="center">
   <br/>
-  <p><i>"Não construo apenas sites; construo a porta de entrada para experiências memoráveis."</i></p>
+  <p><i>"Do design da interface à lógica da automação, construo soluções completas."</i></p>
   <img src="https://komarev.com/ghpvc/?username=theocarvalhoDEV&color=D4AF37&style=flat-square&label=VISITAS+AO+PERFIL" alt="Contador de visitas" />
 </div>

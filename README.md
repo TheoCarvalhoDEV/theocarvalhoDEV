@@ -1,7 +1,7 @@
 # Olá, eu sou o Theo Carvalho! 👋
 
 <div align="center">
-  <a href="https://github.com/TheoCarvalhoDEV">
+  <a href="https://github.com/theocarvalhoDEV">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Engenharia+de+Software;Especialista+em+UI%2FUX+Cinematográfico;Focado+em+React+%2B+Tailwind" alt="Typing SVG" />
   </a>
 </div>
@@ -9,8 +9,11 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheoCarvalhoDEV&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheoCarvalhoDEV&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=theocarvalhoDEV&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theocarvalhoDEV&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theocarvalhoDEV&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
 </div>
 
 ---
@@ -19,7 +22,7 @@
 
 Sou um Desenvolvedor apaixonado por criar interfaces cinematográficas e experiências digitais de alta fidelidade. Atualmente focado no ecossistema **React** e em transformar ideias complexas em produtos visualmente deslumbrantes.
 
-- 🛠️ Atualmente desenvolvendo o **[Atchê](https://github.com/TheoCarvalhoDEV/athc-)**, uma plataforma de eventos premium.
+- 🛠️ Atualmente desenvolvendo o **[Atchê](https://github.com/theocarvalhoDEV/athc-)**, uma plataforma de eventos premium.
 - 🎨 Especialista em **UI/UX Cinematográfico** e Animações (**GSAP**, **Tailwind**).
 - 🎓 Estudante dedicado a engenharia de software e performance frontend.
 
@@ -30,10 +33,19 @@ Sou um Desenvolvedor apaixonado por criar interfaces cinematográficas e experi�
 <div align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=github-pages&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</div>
+
+---
+
+### 🎵 O que estou ouvindo agora
+
+<div align="left">
+  <a href="https://open.spotify.com/user/seu_usuario">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=seu_usuario&cover_image=true&theme=novathem&show_offline=false&background_color=121212&interchange=true" alt="Spotify Now Playing" />
+  </a>
 </div>
 
 ---
@@ -47,7 +59,7 @@ Sou um Desenvolvedor apaixonado por criar interfaces cinematográficas e experi�
   <a href="mailto:contato@theocarvalho.dev" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/TheoCarvalhoDEV" target="_blank">
+  <a href="https://github.com/theocarvalhoDEV" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
@@ -57,5 +69,5 @@ Sou um Desenvolvedor apaixonado por criar interfaces cinematográficas e experi�
 <div align="center">
   <br/>
   <p><i>"Não construo apenas sites; construo a porta de entrada para experiências memoráveis."</i></p>
-  <img src="https://komarev.com/ghpvc/?username=TheoCarvalhoDEV&color=D4AF37&style=flat-square&label=VISITAS+AO+PERFIL" alt="Contador de visitas" />
+  <img src="https://komarev.com/ghpvc/?username=theocarvalhoDEV&color=D4AF37&style=flat-square&label=VISITAS+AO+PERFIL" alt="Contador de visitas" />
 </div>

@@ -30,7 +30,7 @@ Sou desenvolvedor full-stack e gosto de transformar tarefas manuais e repetitiva
 
 | Projeto | O que é | Stack |
 |---|---|---|
-| **[Umbler 2.0](https://github.com/theocarvalhoDEV/Umbler2.0)** | Central de atendimento por WhatsApp do escritório: vários atendentes no mesmo número, setores e fila, chatbot e relatórios. | Node · TypeScript · PostgreSQL · Docker · Vite |
+| **[JV Atendimento](https://github.com/theocarvalhoDEV/Umbler2.0)** | Central de atendimento por WhatsApp do escritório: vários atendentes no mesmo número, setores e fila, chatbot e relatórios. | Node · TypeScript · PostgreSQL · Docker · Vite |
 | **[Thalyta Maia — Arquitetura](https://thalytamaiaarquitetura.com.br)** | Site institucional de uma arquiteta, com SEO local e dados estruturados para ranquear por cidade e categoria. | HTML · CSS · JavaScript · JSON-LD · Netlify |
 | **Gestão de Processos** *(em desenvolvimento)* | Aplicativo para Windows que automatiza o cadastro de processos e o controle de prazos em escritórios de advocacia. | — |
 | **[Atchê](https://github.com/theocarvalhoDEV/athc-)** | Plataforma de eventos premium. | TypeScript |
